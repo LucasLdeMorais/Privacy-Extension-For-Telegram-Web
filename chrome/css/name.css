@@ -9,6 +9,7 @@
 .md_modal_section_param_value /*About user phone number*/,
 .im_message_author /*message author*/,
 .im_message_service /*group messages*/,
+.im_message_reply_author,
 ._26ydt /*Media preview user/group name*/
 {
   filter: blur(5px) grayscale(1);
@@ -16,6 +17,7 @@
 }
 
 .im_dialog_peer:hover /*List user/group name*/,
+.im_message_reply_author:hover,
 .tg_head_peer_title:hover /*Top user/group name*/,
 .tg_head_peer_info:hover /*Top group user preview*/,
 .md_modal_section_param_value:hover /*Details username*/,
