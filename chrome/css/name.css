@@ -1,31 +1,27 @@
-._3H4MS /*List user/group name*/,
-._19vo_ /*Top user/group name*/,
-._3Q3ui /*Top group user preview*/,
-._1drsQ /*Details username*/,
-._3VvbK /*Details username ~nickname*/,
-._3iZHE /*Starred messages username*/,
-._3KF1B /*Starred messages groupname*/,
-._3FeAD._3jJ43 ._3u328 /*Details group name*/,
-._5KVVe /*Group description*/,
-._2sl9a /*About user*/,
-.selectable-text ._6xQdq /*About user phone number*/,
+.im_dialog_peer /*List user/group name*/,
+.tg_head_peer_title /*Top user/group name*/,
+.tg_head_peer_info /*Top group user preview*/,
+.md_modal_section_param_value /*Details username*/,
+.peer_modal_profile_name /*Details username ~nickname*/,
+.peer_modal_profile_name /*Details group name*/,
+.md_modal_section_peers_wrap /*Group members*/,
+.md_modal_section_param_value /*About user*/,
+.md_modal_section_param_value /*About user phone number*/,
 ._26ydt /*Media preview user/group name*/
 {
   filter: blur(5px) grayscale(1);
   transition-delay: 0s;
 }
 
-._3H4MS:hover /*List user/group name*/,
-._19vo_:hover /*Top user/group name*/,
-._3Q3ui:hover /*Top group user preview*/,
-._1drsQ:hover /*Details username*/,
-._3VvbK:hover /*Details username ~nickname*/,
-._3iZHE:hover /*Starred messages username*/,
-._3KF1B:hover /*Starred messages groupname*/,
-._3FeAD._3jJ43 ._3u328:hover /*Details group name*/,
-._5KVVe:hover /*Group description*/,
-._2sl9a:hover /*About user*/,
-.selectable-text ._6xQdq:hover /*About user phone number*/,
+.im_dialog_peer:hover /*List user/group name*/,
+.tg_head_peer_title:hover /*Top user/group name*/,
+.tg_head_peer_info:hover /*Top group user preview*/,
+.md_modal_section_param_value:hover /*Details username*/,
+.peer_modal_profile_name:hover /*Details username ~nickname*/,
+.peer_modal_profile_name:hover /*Details group name*/,
+.md_modal_section_peers_wrap:hover /*Group members*/,
+.md_modal_section_param_value:hover /*About user*/,
+.md_modal_section_param_value:hover /*About user phone number*/,
 ._26ydt:hover /*Media preview user/group name*/
 {
   filter: blur(0) grayscale(0);

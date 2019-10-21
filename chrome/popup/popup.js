@@ -68,7 +68,6 @@ chrome.storage.sync.get([
           }
         }
       }
-      xmlhttp.open("GET", "https://lukaslen.com/message/pfwa.txt", true);
       xmlhttp.send();
     });
 });

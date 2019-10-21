@@ -26,7 +26,7 @@ chrome.runtime.onInstalled.addListener(function(details) {
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
     chrome.declarativeContent.onPageChanged.addRules([{
       conditions: [new chrome.declarativeContent.PageStateMatcher({
-        pageUrl: {hostEquals: 'web.whatsapp.com'},
+        pageUrl: {hostEquals: 'web.telegram.org'},
       })],
       actions: [new chrome.declarativeContent.ShowPageAction()]
     }]);

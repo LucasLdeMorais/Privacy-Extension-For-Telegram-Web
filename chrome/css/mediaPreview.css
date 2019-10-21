@@ -1,19 +1,19 @@
-._18vxA /*image preview*/,
-._3KBs6 * /*gif preview*/,
-._2IYG6 /*video preview*/,
-._1Bw-K /*media reply thumb*/,
-._3in0k /*image send preview*/,
-._2k0GR /*file preview*/
+.im_message_photo_thumb /*image preview*/,
+.img_gif_thumb * /*gif preview*/,
+.im_message_video_thumb /*video preview*/,
+.im_message_reply_thumb_wrap /*media reply thumb*/,
+._placeholder_ /*image send preview*/,
+.im_message_document_name /*file preview*/
 {
   filter: blur(20px) grayscale(1);
   transition-delay: 0s;
 }
-._18vxA:hover /*image preview*/,
-._3KBs6:hover * /*gif preview*/,
-.cMrTV:hover ._2IYG6 /*video preview*/,
-._1Bw-K:hover /*media reply thumb*/,
-._3in0k:hover /*image send preview*/,
-._2k0GR:hover /*file preview*/
+.im_message_photo_thumb:hover /*image preview*/,
+.img_gif_thumb:hover * /*gif preview*/,
+.im_message_video_thumb:hover .im_message_video_thumb /*video preview*/,
+.im_message_reply_thumb_wrap:hover /*media reply thumb*/,
+._placeholder_:hover /*image send preview*/,
+.im_message_document_name:hover /*file preview*/
 {
   filter: blur(0) grayscale(0);
   -webkit-transition: -webkit-filter .16s linear;

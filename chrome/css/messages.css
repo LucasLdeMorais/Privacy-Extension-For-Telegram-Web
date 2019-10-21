@@ -1,51 +1,48 @@
-.-N6Gq  /*normal message*/,
-._1jnqn /*Gallery link preview*/,
-._1_8_q /*blue info bar*/
+.im_message_wrap  /*normal message*/,
+._placeholder_ /*Gallery link preview*/,
+._placeholder_ /*blue info bar*/
 {
   filter: blur(8px) grayscale(1);
   transition-delay: 0s;
 }
-.-N6Gq  /*normal message more padding*/
+.im_message_wrap  /*normal message more padding*/
 {
   padding-right: 40px !important;
   padding-top: 12px !important;
   padding-bottom: 12px !important;
 }
-.EopGb::after /*same width as before*/
+.im_message_text::after /*same width as before*/
 {
   margin-right: 49px !important;
 }
 
-._3SaET /*image*/,
-.ziVVa /*video*/,
-._1BN2j /*file*/,
-._2Zgm- /*voice message*/,
-._15Rkh /*position*/,
-._2qE0x /*contact share*/,
-._2iEEP /*GIF*/,
-.Eu2_h /*Sticker*/
+.im_message_photo_thumb /*image*/,
+.im_message_video_thumb /*video*/,
+.messageMediaDocument /*file*/,
+.im_message_audio /*voice message*/,
+.im_message_geopoint /*position*/,
+._placeholder_ /*contact share*/,
+.img_gif_image_wrap /*GIF*/,
+.messageMediaDocument /*sticker?*/
 {
   filter: blur(20px) grayscale(1);
   transition-delay: 0s;
 }
 
-.-N6Gq:hover /*normal message*/,
-._1jnqn:hover /*Gallery link preview*/,
-._1_8_q:hover /*blue info bar*/,
-._3SaET:hover /*image*/,
-.ziVVa:hover /*video*/,
-._1BN2j:hover /*file*/,
-._2Zgm-:hover /*voice message*/,
-._15Rkh:hover /*position*/,
-._2qE0x:hover /*contact share*/,
-._2iEEP:hover /*GIF*/,
-.Eu2_h:hover /*Sticker*/
+.im_message_photo_thumb:hover /*image*/,
+.im_message_video_thumb:hover /*video*/,
+.messageMediaDocument:hover /*file*/,
+.im_message_audio:hover /*voice message*/,
+.im_message_geopoint:hover /*position*/,
+._placeholder_:hover /*contact share*/,
+.img_gif_with_progress_wrap:hover /*GIF*/,
+.messageMediaDocument:hover /*sticker?*/
 {
   filter: blur(0) grayscale(0);
   transition-delay: 0.3s;
 }
 
-.a81-s /*set pseudo background on sticker*/
+._placeholder_ /*set pseudo background on sticker*/
 {
   background-color: #dcf8c6 !important;
   border-radius: 7.5px !important;
