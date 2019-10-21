@@ -1,12 +1,8 @@
-# Privacy Extension For WhatsApp™ Web ![Logo](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/blob/master/chrome/images/logo_32.png?raw=true)
-[![GitHub license](https://img.shields.io/github/license/LukasLen/Privacy-Extension-For-WhatsApp-Web.svg)](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/blob/master/LICENSE) [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/jbojhlhhggfmmkpefknmbdhlaghehini.svg)](https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini) [![Tweet](https://img.shields.io/twitter/url/https/github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web.svg?style=social)](https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fgithub.com%2FLukasLen%2FPrivacy-Extension-For-WhatsApp-Web)
+I WAS FEELLING A BIT LAZY AND I USED SOME OF LUKAS LEN's ORIGINAL TEXT. PLEASE, GO CHECK THIS "GOD ON EARTH"'s WORK AT: https://github.com/LukasLen or at https://lukaslen.com
 
-<p align="center">
-  <img width="48%" title="WhatsApp™ Web with the extension" alt="WhatsApp™ Web with the extension" src="https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/blob/master/screenshots/PFWA_Header.png?raw=true">
-  <img width="48%" title="WhatsApp™ Web with the extension" alt="WhatsApp™ Web with the extension" src="https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/blob/master/screenshots/PFWA_Settings.png?raw=true">
-</p>
+# Ancestor of this extension: Privacy Extension For WhatsApp™ Web (by Lucas Len)![Logo](https://github.com/LukasLen/Privacy-Extension-For-Whatsapp-Web/blob/master/chrome/images/logo_32.png?raw=true)
 
-The Privacy Extension For WhatsApp™ Web hides your messages from unwanted glimpses until you hover over them. In the search bar, you can disable the blur effect on all messages manually and specify what elements to blur.
+The Privacy Extension For Telegram™ Web hides your messages from unwanted glimpses until you hover over them. In the search bar, you can disable the blur effect on all messages manually and specify what elements to blur.
 
 **Your options:**
 - All messages in chat: *Blurs all messages in the current chat.*
@@ -21,12 +17,6 @@ The Privacy Extension For WhatsApp™ Web hides your messages from unwanted glim
 ## Installation
 Available for both Chrome and Firefox.
 
-### Chrome
-- Install if from https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini
-
-### Firefox
-- Install if from https://addons.mozilla.org/firefox/addon/privacy-extension-for-whatsapp/
-
 ### For development purposes on Chrome
 - Download the newest release [here](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/releases) and unzip it
 - Navigate to chrome://extensions/
@@ -34,11 +24,6 @@ Available for both Chrome and Firefox.
 - Click on "Load Unpacked"
 - Select the "/chrome" folder from your unzipped download (this folder has to be persistent so you might want to keep it somewhere where you won't delete it)
 - Check back here for new releases
-
-## Issues and feature requests
-If you have a feature request or if you have encountered a problem, please create a new issue under this link: https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/issues
-
-Alternatively you can get help at: contact@lukaslen.com
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
@@ -48,6 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ---
-> ***Disclaimer:*** *WhatsApp is a trademark of WhatsApp Inc., registered in the U.S. and other countries. This extension is an independent project developed by Lukas Lenhardt and has no relationship to WhatsApp or WhatsApp Inc.*
->
-> [*Legal and Privacy notice*](https://lukaslen.com/legal)
+> ***Disclaimer:*** *Telegram is a trademark of Telegram FZ-LLC.inc, registered in Russia and other countries. This extension is an independent project developed by Lucas Morais as a fork of Lukas Len's Privacy Extension For WhatsApp Web (https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/blob/master/chrome/images/logo_32.png?raw=true) and has no relationship to Telegram or Telegram FZ-LLC.inc*
