@@ -1,6 +1,6 @@
 I WAS FEELLING A BIT LAZY AND I USED SOME OF LUKAS LEN's ORIGINAL TEXT. PLEASE, GO CHECK THIS "GOD ON EARTH"'s WORK AT: https://github.com/LukasLen or at https://lukaslen.com
 
-# Ancestor of this extension: Privacy Extension For WhatsApp™ Web (by Lucas Len)![Logo](https://github.com/LukasLen/Privacy-Extension-For-Whatsapp-Web/blob/master/chrome/images/logo_32.png?raw=true)
+# Ancestor of this extension: Privacy Extension For WhatsApp™ Web by Lucas Len (https://github.com/LukasLen/Privacy-Extension-For-Whatsapp-Web)![Logo](https://github.com/LukasLen/Privacy-Extension-For-Whatsapp-Web/blob/master/chrome/images/logo_32.png?raw=true)
 
 The Privacy Extension For Telegram™ Web hides your messages from unwanted glimpses until you hover over them. In the search bar, you can disable the blur effect on all messages manually and specify what elements to blur.
 
@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ---
-> ***Disclaimer:*** *Telegram is a trademark of Telegram FZ-LLC.inc, registered in Russia and other countries. This extension is an independent project developed by Lucas Morais as a fork of Lukas Len's Privacy Extension For WhatsApp Web (https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web/blob/master/chrome/images/logo_32.png?raw=true) and has no relationship to Telegram or Telegram FZ-LLC.inc*
+> ***Disclaimer:*** *Telegram is a trademark of Telegram FZ-LLC.inc, registered in Russia and other countries. This extension is an independent project developed by Lucas Morais as a fork of Lukas Len's Privacy Extension For WhatsApp Web (https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web) and has no relationship to Telegram or Telegram FZ-LLC.inc*
