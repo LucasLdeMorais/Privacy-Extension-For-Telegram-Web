@@ -1,11 +1,11 @@
-.im_message_wrap  /*normal message*/,
+.im_message_text  /*normal message*/,
 ._placeholder_ /*Gallery link preview*/,
 ._placeholder_ /*blue info bar*/
 {
   filter: blur(8px) grayscale(1);
   transition-delay: 0s;
 }
-.im_message_wrap  /*normal message more padding*/
+.im_message_text  /*normal message more padding*/
 {
   padding-right: 40px !important;
   padding-top: 12px !important;

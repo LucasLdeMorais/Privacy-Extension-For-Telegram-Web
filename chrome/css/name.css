@@ -7,6 +7,7 @@
 .md_modal_section_peers_wrap /*Group members*/,
 .md_modal_section_param_value /*About user*/,
 .md_modal_section_param_value /*About user phone number*/,
+.im_message_author /*message author*/,
 ._26ydt /*Media preview user/group name*/
 {
   filter: blur(5px) grayscale(1);
