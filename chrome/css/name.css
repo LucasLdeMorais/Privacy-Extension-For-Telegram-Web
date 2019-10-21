@@ -8,7 +8,7 @@
 .md_modal_section_param_value /*About user*/,
 .md_modal_section_param_value /*About user phone number*/,
 .im_message_author /*message author*/,
-.messageActionChatAddUser /*added user*/,
+.im_message_service /*group messages*/,
 ._26ydt /*Media preview user/group name*/
 {
   filter: blur(5px) grayscale(1);
@@ -24,6 +24,8 @@
 .md_modal_section_peers_wrap:hover /*Group members*/,
 .md_modal_section_param_value:hover /*About user*/,
 .md_modal_section_param_value:hover /*About user phone number*/,
+.im_message_author:hover /*message author*/,
+.im_message_service:hover /*group messages*/,
 ._26ydt:hover /*Media preview user/group name*/
 {
   filter: blur(0) grayscale(0);

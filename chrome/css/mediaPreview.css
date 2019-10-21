@@ -9,6 +9,7 @@
   transition-delay: 0s;
 }
 .im_message_photo_thumb:hover /*image preview*/,
+.im_service_message_photo_thumb,
 .img_gif_thumb:hover * /*gif preview*/,
 .im_message_video_thumb:hover .im_message_video_thumb /*video preview*/,
 .im_message_reply_thumb_wrap:hover /*media reply thumb*/,

@@ -22,13 +22,13 @@
 .im_message_audio /*voice message*/,
 .im_message_geopoint /*position*/,
 ._placeholder_ /*contact share*/,
-.img_gif_image_wrap /*GIF*/,
-.messageMediaDocument /*sticker?*/
+.img_gif_image_wrap /*GIF*/
 {
   filter: blur(20px) grayscale(1);
   transition-delay: 0s;
 }
 
+.im_message_text:hover /*normal message*/,
 .im_message_photo_thumb:hover /*image*/,
 .im_message_video_thumb:hover /*video*/,
 .messageMediaDocument:hover /*file*/,

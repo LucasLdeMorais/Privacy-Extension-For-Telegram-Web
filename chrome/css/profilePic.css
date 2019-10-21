@@ -14,7 +14,7 @@
 .im_message_from_photo:hover /*profile pic*/,
 .im_dialog_photo:hover /*Details profile pic group*/,
 .im_dialog_photo:hover /*Details profile pic user*/,
-.peer_modal_photo_wrap:hover /*Details own profile pic*/
+.peer_modal_photo:hover /*Details own profile pic*/
 {
   filter: blur(0) grayscale(0);
   transition-delay: 0.3s;
