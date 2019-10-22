@@ -1,4 +1,4 @@
-I WAS FEELLING A BIT LAZY AND I USED SOME OF LUKAS LEN's ORIGINAL TEXT. PLEASE, GO CHECK THIS "GOD ON EARTH"'s WORK AT: https://github.com/LukasLen or at https://lukaslen.com
+I WAS FEELLING A BIT SO I USED SOME OF LUKAS LEN's ORIGINAL TEXT. PLEASE, GO CHECK THIS "GOD ON EARTH"'s WORK AT: https://github.com/LukasLen or at https://lukaslen.com
 
 # Ancestor of this extension: Privacy Extension For WhatsApp™ Web by Lucas Len (https://github.com/LukasLen/Privacy-Extension-For-Whatsapp-Web)!
 
