@@ -6,6 +6,7 @@
 .im_dialog_photo /*Details profile pic group*/,
 .im_dialog_photo /*Details profile pic user*/,
 .peer_modal_photo_wrap pull-left /*Details own profile pic*/
+.peer_modal_photo:hover /*group details picture*/,
 .im_panel_peer_photo
 {
   filter: blur(12px) grayscale(1);
@@ -14,6 +15,7 @@
 
 .im_message_from_photo:hover /*profile pic*/,
 .im_dialog_photo:hover /*Details profile pic group*/,
+.peer_modal_photo:hover /*group details picture*/,
 .im_dialog_photo:hover /*Details profile pic user*/,
 .peer_modal_photo:hover /*Details own profile pic*/,
 .im_panel_peer_photo:hover
