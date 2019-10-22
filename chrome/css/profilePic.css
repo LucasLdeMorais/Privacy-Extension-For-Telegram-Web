@@ -1,4 +1,4 @@
-.im_message_from_photo /*profile pic*/,
+.im_message_from_photo /*profile pic*/
 {
   filter: blur(7px) grayscale(1);
   transition-delay: 0s;
@@ -6,7 +6,7 @@
 .im_dialog_photo /*Details profile pic group*/,
 .im_dialog_photo /*Details profile pic user*/,
 .peer_modal_photo_wrap pull-left /*Details own profile pic*/
-.im_panel_peer_photo,
+.im_panel_peer_photo
 {
   filter: blur(12px) grayscale(1);
   transition-delay: 0s;
@@ -16,7 +16,7 @@
 .im_dialog_photo:hover /*Details profile pic group*/,
 .im_dialog_photo:hover /*Details profile pic user*/,
 .peer_modal_photo:hover /*Details own profile pic*/,
-.im_panel_peer_photo:hover,
+.im_panel_peer_photo:hover
 {
   filter: blur(0) grayscale(0);
   transition-delay: 0.3s;
