@@ -24,7 +24,8 @@
 ._placeholder_ /*contact share*/,
 .img_gif_image_wrap /*GIF*/,
 .im_short_message_text /*reply message preview*/,
-.im_message_photo_caption /*image caption*/
+.im_message_photo_caption /*image caption*/,
+.im_message_media /*sticker?*/
 {
   filter: blur(20px) grayscale(1);
   transition-delay: 0s;
@@ -38,7 +39,7 @@
 .im_message_geopoint:hover /*position*/,
 ._placeholder_:hover /*contact share*/,
 .img_gif_with_progress_wrap:hover /*GIF*/,
-.messageMediaDocument:hover /*sticker?*/,
+.im_message_media:hover /*sticker?*/,
 .im_short_message_text:hover /*reply message preview*/,
 .im_message_photo_caption:hover /*image caption*/
 {
