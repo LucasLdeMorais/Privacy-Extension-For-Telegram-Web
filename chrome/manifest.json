@@ -2,7 +2,7 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "name": "Privacy Extension For Telegram Web",
-  "version": "2.5.1",
+  "version": "0.5.2",
   "description": "Hides your messages until you hover over them.",
   "permissions": ["declarativeContent", "activeTab", "tabs", "storage"],
   "background": {
